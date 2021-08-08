@@ -66,7 +66,7 @@ The menus are a simple text file with the information and steps of how to do the
 
 ## People related to the script:
 
-This work was made for the Course Unit **Computer Security** (or in portuguese, *Segurança Informática) @[Universidade da Beira Interior](https://www.ubi.pt/).
+This work was made for the Course Unit **Computer Security** (or in portuguese, *Segurança Informática*) @[Universidade da Beira Interior](https://www.ubi.pt/).
 
 All the work was graded by Professor [Pedro Inácio](https://www.di.ubi.pt/~inacio/).
 
