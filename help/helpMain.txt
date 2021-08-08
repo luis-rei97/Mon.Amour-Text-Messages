@@ -1,0 +1,13 @@
+------------------------------- Menu Ajuda Principal -------------------------------
+| - Para submeteres mensagens, terás de realizar o login nesta plataforma;         |
+| - Caso ainda não tenhas registado, seleciona a opção "Registo";                  |
+| - Quando selecionares a opção de registo, terás de colocar o seguinte:           |
+|    -> Um nome de utilizador que não esteja registado;                            |
+|    -> Uma palavra passe com o mínimo de 8 caracteres;                            |
+|    -> A mesma palavra passe, para confirmação.                                   |
+| - Quando selecionares a opção de login, terás de colocar o seguinte:             |
+|    -> Um nome de utilizador que esteja registado;                                |
+|    -> A palavra passe associada ao nome de utilizador inserido;                  |
+| - NOTA: Todas as passwords guardadas nesta plataforma encontram-se               |
+|           devidamente protegidas.                                                |
+------------------------------------------------------------------------------------

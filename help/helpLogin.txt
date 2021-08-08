@@ -1,0 +1,11 @@
+--------------------------------- Menu Ajuda Login ---------------------------------
+| - Ao submeter uma mensagem, terás de colocar os seguintes parâmetros:            |
+|    -> Uma Pergunta para a outra pessoa responder;                                |
+|    -> Uma resposta para a outra pessoa adivinhar;                                |
+|    -> A mensagem que pretendes enviar à outra pessoa;                            |
+|        Para parares de escrever a mensagem, terás de escrever \"exit\"           |
+|            na última linha.                                                      |
+| - Para veres uma mensagem, ao selecionar a opção, terás de realizar o seguinte:  |
+|    -> A opção da lista de mensagens que te foi enviada;                          |
+|    -> A resposta à pergunta que te é dada;                                       |
+------------------------------------------------------------------------------------
